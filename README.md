@@ -8,6 +8,8 @@
 
 [![Website terryonweb.ga](https://img.shields.io/website-up-down-green-red/https/terryonweb.ga.svg?style=flat-square)](https://terryonweb.ga/) <a href="https://www.instagram.com/_t3rry4/"><img alt="Instagram" src="https://img.shields.io/badge/_t3rry4-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://discord.com/invite/E7FkdF9"><img alt="Discord" src="https://img.shields.io/badge/memesquad-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"/></a> <a href="https://t.me/t3rry4"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a> <a href="https://steamcommunity.com/id/t3rry4/"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white"/></a> 
 
+-----
+
 ```css
 👨‍💻 Things I code/design with
 ```
