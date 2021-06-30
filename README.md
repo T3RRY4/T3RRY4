@@ -1,5 +1,8 @@
 <h2 align="center">👋 Welcome to my GitHub profile!</h2>
 <p align="center">
+  My socials:
+</p>
+<p align="center">
   <a href="https://terryonweb.ga"><img alt="Website" width="22px" src="https://github.com/T3RRY4/T3RRY4/blob/master/img/globe-europe-solid.svg"></a>
   <a href="https://discord.com/invite/E7FkdF9"><img alt="Discord" width="22px" src="https://github.com/T3RRY4/T3RRY4/blob/master/img/discord-brands.svg"></a>
   <a href="https://vk.com/t3rry4"><img alt="VK" width="22px" src="https://github.com/T3RRY4/T3RRY4/blob/master/img/vk-brands.svg"></a>
