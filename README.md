@@ -15,7 +15,7 @@
 
 -----
 
-### 📊 My activity chart
+### 🕒 This week I spent my time on
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=T3RRY4)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=t3rry4&hide_title=true&layout=compact)
 
