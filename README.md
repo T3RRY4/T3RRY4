@@ -2,7 +2,7 @@
 
 -----
 
- ```css
+ ```
 💬 My socials
  ```
 
@@ -10,7 +10,7 @@
 
 -----
 
-```css
+```
 👨‍💻 Things I code/design with
 ```
 
@@ -18,7 +18,7 @@
 
 -----
 
-```css
+```
 🕒 This week I spent my time on
 ```
 
