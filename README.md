@@ -17,5 +17,5 @@
 
 ### 🕒 This week I spent my time on
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=t3rry4&hide_title=true&layout=compact)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=t3rry4?hide_title=true)
 
